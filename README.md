@@ -1,2 +1,2 @@
 # hello-world
-beginning repository
+To begin!
