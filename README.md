@@ -1,2 +1,2 @@
 # hello-world
-Yu Dong is idiot!
+To begin!
